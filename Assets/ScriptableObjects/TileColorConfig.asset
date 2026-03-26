@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54a605364ccf34f50bde8f518c59b37a, type: 3}
+  m_Name: TileColorConfig
+  m_EditorClassIdentifier: 
+  _colorData:
+  - Value: 2
+    BackgroundColor: {r: 0.93, g: 0.89, b: 0.85, a: 1}
+    TextColor: {r: 0.47, g: 0.43, b: 0.4, a: 1}
+  - Value: 4
+    BackgroundColor: {r: 0.93, g: 0.88, b: 0.78, a: 1}
+    TextColor: {r: 0.47, g: 0.43, b: 0.4, a: 1}
+  - Value: 8
+    BackgroundColor: {r: 0.95, g: 0.69, b: 0.47, a: 1}
+    TextColor: {r: 1, g: 1, b: 1, a: 1}
+  - Value: 16
+    BackgroundColor: {r: 0.96, g: 0.58, b: 0.39, a: 1}
+    TextColor: {r: 1, g: 1, b: 1, a: 1}
+  - Value: 32
+    BackgroundColor: {r: 0.96, g: 0.49, b: 0.37, a: 1}
+    TextColor: {r: 1, g: 1, b: 1, a: 1}
+  - Value: 64
+    BackgroundColor: {r: 0.96, g: 0.37, b: 0.23, a: 1}
+    TextColor: {r: 1, g: 1, b: 1, a: 1}
+  - Value: 128
+    BackgroundColor: {r: 0.93, g: 0.82, b: 0.45, a: 1}
+    TextColor: {r: 1, g: 1, b: 1, a: 1}
+  - Value: 256
+    BackgroundColor: {r: 0.93, g: 0.8, b: 0.38, a: 1}
+    TextColor: {r: 1, g: 1, b: 1, a: 1}
+  - Value: 512
+    BackgroundColor: {r: 0.93, g: 0.78, b: 0.31, a: 1}
+    TextColor: {r: 1, g: 1, b: 1, a: 1}
+  - Value: 1024
+    BackgroundColor: {r: 0.93, g: 0.76, b: 0.25, a: 1}
+    TextColor: {r: 1, g: 1, b: 1, a: 1}
+  - Value: 2048
+    BackgroundColor: {r: 0.93, g: 0.74, b: 0.18, a: 1}
+    TextColor: {r: 1, g: 1, b: 1, a: 1}
+  _fallbackBackground: {r: 0.24, g: 0.23, b: 0.21, a: 1}
+  _fallbackText: {r: 1, g: 1, b: 1, a: 1}

@@ -1,0 +1,23 @@
+{
+    "mcpServers": {
+        "coplay": {
+            "autoApprove": [],
+            "disabled": false,
+            "timeout": 720,
+            "type": "stdio",
+            "command": "uvx",
+            "args": [
+                "--python",
+                ">=3.11",
+                "coplay-mcp-server@latest"
+            ]
+        },
+        "saimem": {
+            "type": "stdio",
+            "command": "saimem",
+            "args": [
+                "serve"
+            ]
+        }
+    }
+}
